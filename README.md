@@ -1,6 +1,6 @@
-![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;Building+real+systems+for+real+clients.)
-
 <div align="center">
+
+![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;Building+real+systems+for+real+clients.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Martinnitram21&color=9b0f57&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -111,6 +111,8 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:9b0f57,100:ffffff&height=100&section=footer" width="100%"/>
 
 *"We suffer more in imagination than in reality." — Seneca*
 
