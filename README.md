@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:fce4ec,70:9b0f57,100:2563eb&height=200&section=header&text=Jericho%20Earl%20B.%20Martin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Web%20%26%20Software%20Developer&descAlignY=58&descSize=18&descColor=fce4ec&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:fce4ec,70:9b0f57,100:2563eb&height=200&section=header&text=Jericho%20Earl%20B.%20Martin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Web%20%26%20Software%20Developer&descAlignY=58&descSize=18&descColor=fce4ec&animation=fadeIn" width="100%"/>
+
 </div>
 
 ---
@@ -13,7 +15,7 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ```text
 🎓  Davao del Sur State College  |  BSIT - Expected 2027
 💻  Web Dev (Laravel/React)  +  Software Dev (.NET/C#/WPF)
-✅  Civil Service Exam Passer    |  Professional 2026
+✅  Civil Service Exam Passer    |  Professional · 2026
 🌍  COIL International Alumnus  |  Team Lead of 8 (PH × Indonesia)
 📍  Davao City, Philippines
 ```
@@ -39,12 +41,16 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Martinnitram21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9b0f57&icon_color=2563eb&text_color=333333&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinnitram21&layout=compact&hide_border=true&langs_count=6&title_color=9b0f57&text_color=333333&bg_color=ffffff" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Martinnitram21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9b0f57&icon_color=2563eb&text_color=333333&bg_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinnitram21&layout=compact&hide_border=true&langs_count=6&title_color=9b0f57&text_color=333333&bg_color=ffffff" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Martinnitram21&hide_border=true&background=ffffff&ring=9b0f57&fire=2563eb&currStreakLabel=9b0f57" />
+
+<img src="https://streak-stats.demolab.com?user=Martinnitram21&hide_border=true&background=ffffff&ring=9b0f57&fire=2563eb&currStreakLabel=9b0f57" />
+
 </div>
 
 ---
@@ -79,7 +85,7 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 ### 🏅 Certifications & Achievements
 
-- ✅ **Civil Service Examination Passer** — *Career Service (Professional)* — CSC Philippines
+- ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission, Philippines
 - 🌟 **COIL International Collaboration** — *Philippines × Indonesia, Global Web Design Program* `Sept–Oct 2025`
 - ⛓️ **XENEA Campus-Wide Blockchain Experience** `July 2025`
 - 🎨 **PAGHULAGWAY: Graphic Design Workshop** `September 2025`
@@ -110,7 +116,9 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:9b0f57,100:ffffff&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:9b0f57,100:ffffff&height=100&section=footer" width="100%"/>
 
 *"We suffer more in imagination than in reality." — Seneca*
+
 </div>
