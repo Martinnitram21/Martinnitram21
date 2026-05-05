@@ -35,13 +35,6 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Martinnitram21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9b0f57&icon_color=2563eb&text_color=333333&bg_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinnitram21&layout=compact&hide_border=true&langs_count=6&title_color=9b0f57&text_color=333333&bg_color=ffffff" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Martinnitram21\&hide_border=true\&background=ffffff\&ring=9b0f57\&fire=2563eb\&currStreakLabel=9b0f57)](https://git.io/streak-stats)
 
 </div>
