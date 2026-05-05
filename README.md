@@ -1,12 +1,14 @@
+![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;Building+real+systems+for+real+clients.)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:fce4ec,70:9b0f57,100:2563eb&height=200&section=header&text=Jericho%20Earl%20B.%20Martin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Web%20%26%20Software%20Developer&descAlignY=58&descSize=18&descColor=fce4ec&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Martinnitram21&color=9b0f57&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### 👋 Hey there! I'm Jericho
+### 👋 About Me
 
 I'm a **3rd Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
 
@@ -42,13 +44,6 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Martinnitram21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9b0f57&icon_color=2563eb&text_color=333333&bg_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinnitram21&layout=compact&hide_border=true&langs_count=6&title_color=9b0f57&text_color=333333&bg_color=ffffff" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Martinnitram21&hide_border=true&background=ffffff&ring=9b0f57&fire=2563eb&currStreakLabel=9b0f57" />
 
 </div>
@@ -67,10 +62,10 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 ---
 
-### 📁 Other Projects
+### 📁 Earlier Work
 
 <details>
-<summary>Earlier academic work (click to expand)</summary>
+<summary>Academic compliance projects (click to expand)</summary>
 
 | Project | Stack | Notes |
 |---|---|---|
@@ -85,7 +80,7 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 ### 🏅 Certifications & Achievements
 
-- ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission, Philippines
+- ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission PH
 - 🌟 **COIL International Collaboration** — *Philippines × Indonesia, Global Web Design Program* `Sept–Oct 2025`
 - ⛓️ **XENEA Campus-Wide Blockchain Experience** `July 2025`
 - 🎨 **PAGHULAGWAY: Graphic Design Workshop** `September 2025`
@@ -116,8 +111,6 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:9b0f57,100:ffffff&height=100&section=footer" width="100%"/>
 
 *"We suffer more in imagination than in reality." — Seneca*
 
