@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:fce4ec,70:9b0f57,100:2563eb&height=200&section=header&text=Jericho%20Earl%20B.%20Martin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Web%20%26%20Software%20Developer&descAlignY=58&descSize=18&descColor=fce4ec&animation=fadeIn" width="100%"/>
-
-</div>
-
 ---
 
 ### 👋 Hey there! I'm Jericho
