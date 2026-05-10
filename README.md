@@ -56,9 +56,9 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 | | Project | Stack | About |
 |---|---|---|---|
-| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,617 Fajardo coefficients, interpolation engine, 156 API routes, mobile sync in progress. |
+| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,700+ Fajardo coefficients, interpolation engine, 150+ API routes, mobile sync. |
 | 🎓 | **eSkolar+: LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL · QuestPDF | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**. Full lifecycle management, CRS/GGMS government integration, OTP login, PDF/Excel reports, Hostinger cloud deployment. |
-| 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program. Led UI/UX and a team of 8 across Philippines and Indonesia. |
+| 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program. Led UI/UX and a team of 8 across the Philippines and Indonesia. |
 
 ---
 
