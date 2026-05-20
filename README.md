@@ -58,6 +58,7 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 |---|---|---|---|
 | 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,700+ Fajardo coefficients, interpolation engine, 150+ API routes, mobile sync. |
 | 🎓 | **eSkolar+: LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL · QuestPDF | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**. Full lifecycle management, CRS/GGMS government integration, OTP login, PDF/Excel reports, Hostinger cloud deployment. |
+| 💊 | **LabSense** | Expo (React Native) · Supabase · Gemini 2.0 Flash | LabSense is a health literacy tool that scans your lab results, explains every value in your language, flags it, and redirects you to a doctor if needed. |
 | 🌏 | **TravelLink ASEAN** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program 2026. Led UI/UX and a team of 10 across the Philippines and Cambodia. |
 | 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program 2025. Led UI/UX and a team of 8 across the Philippines and Indonesia. |
 
