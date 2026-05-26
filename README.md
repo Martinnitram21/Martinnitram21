@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;Building+real+systems+for+real+clients.)
+![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;2%C3%97+COIL+International+Alumnus;Building+real+systems%2C+in+3rd+year.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Martinnitram21&color=9b0f57&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -12,13 +12,13 @@
 
 I'm a **3rd Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
 
-I work across **full-stack web development** (Laravel 12, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). Right now I'm deep in two of the most real projects of my student career — a construction estimation system for an engineering firm, and a scholarship management system commissioned by an actual municipality.
+I work across **full-stack web development** (Laravel, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). I've participated in the COIL International Program **twice** — collaborating with Indonesia in 2025 and Cambodia in 2026. Right now I'm finishing two real client projects: a construction estimation platform for an engineering firm, and a scholarship system commissioned by a municipality.
 
 ```text
 🎓  Davao del Sur State College  |  BSIT - Expected 2027
 💻  Web Dev (Laravel/React)  +  Software Dev (.NET/C#/WPF)
 ✅  Civil Service Exam Passer    |  Professional · 2026
-🌍  COIL International Alumnus  |  Team Lead of 8 (PH × Indonesia)
+🌍  COIL International 2×        |  PH×Indonesia 2025 · PH×Cambodia 2026
 📍  Davao City, Philippines
 ```
 
@@ -32,7 +32,7 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 **Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,dotnet,vite,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,dotnet,alpinejs,vite,git,github,figma,vscode)](https://skillicons.dev)
 
 **Databases & More**
 
@@ -56,11 +56,11 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 
 | | Project | Stack | About |
 |---|---|---|---|
-| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,700+ Fajardo coefficients, interpolation engine, 150+ API routes, mobile sync. |
+| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,700+ Fajardo coefficients, interpolation engine, 150+ API routes, mobile sync in progress. |
 | 🎓 | **eSkolar+: LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL · QuestPDF | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**. Full lifecycle management, CRS/GGMS government integration, OTP login, PDF/Excel reports, Hostinger cloud deployment. |
-| 💊 | **LabSense** | Expo (React Native) · Supabase · Gemini 2.0 Flash | LabSense is a health literacy tool that scans your lab results, explains every value in your language, flags it, and redirects you to a doctor if needed. |
-| 🌏 | **TravelLink ASEAN** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program 2026. Led UI/UX and a team of 10 across the Philippines and Cambodia. |
-| 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for the COIL International Program 2025. Led UI/UX and a team of 8 across the Philippines and Indonesia. |
+| 🗺️ | **TravelLink ASEAN** | Laravel 13 · Blade · Tailwind v4 · Alpine.js | Static multi-page travel and culture platform — 7 pages including interactive SVG map, AI guide mockup, culture shop, and culinary guide. Built for **COIL 2026** with a Philippines × Cambodia team of 10. No backend — fully Blade-templated frontend. |
+| 💊 | **LabSense** | Expo · React Native · Supabase · Gemini 2.0 Flash | Health literacy tool that scans lab results, explains every value in plain language, flags abnormal readings, and redirects to a doctor when needed. |
+| 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for **COIL 2025**. Led UI/UX and coordinated a team of 8 across Philippines and Indonesia. Features destination browsing, itinerary and budget planning, and cultural guides. |
 
 ---
 
@@ -83,19 +83,11 @@ I work across **full-stack web development** (Laravel 12, PHP, React) and **desk
 ### 🏅 Certifications & Achievements
 
 - ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission PH
-- 🌟 **COIL International Collaboration** — *Philippines × Indonesia, Global Web Design Program* `Sept–Oct 2025`
+- 🌟 **COIL International Collaboration** — *Philippines × Cambodia, TravelLink ASEAN* `2026`
+- 🌟 **COIL International Collaboration** — *Philippines × Indonesia, TravelWeave* `Sept–Oct 2025`
 - ⛓️ **XENEA Campus-Wide Blockchain Experience** `July 2025`
 - 🎨 **PAGHULAGWAY: Graphic Design Workshop** `September 2025`
 - 🔧 **BATCHES Workshop Series** `May 2025`
-
----
-
-### 💼 Experience
-
-**Administrative Support (Volunteer)** · *Medapharma and Medical Supplies Distribution* · `2024 – Present`
-- Coordinated pharmacy license renewal with government agencies
-- Assisted in FDA warehouse registration
-- Data encoding for EDPMS (Electronic Drug Price Monitoring System)
 
 ---
 
