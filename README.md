@@ -52,14 +52,14 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 ### 🚀 Featured Projects
 
-> 💡 Real, client-commissioned work — not just school compliance.
+> 💡 Client-commissioned, competition-built, and internationally recognized — not just school compliance.
 
 | | Project | Stack | About |
 |---|---|---|---|
 | 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,700+ Fajardo coefficients, interpolation engine, 150+ API routes, mobile sync in progress. |
 | 🎓 | **eSkolar+: LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL · QuestPDF | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**. Full lifecycle management, CRS/GGMS government integration, OTP login, PDF/Excel reports, Hostinger cloud deployment. |
 | 🗺️ | **TravelLink ASEAN** | Laravel 13 · Blade · Tailwind v4 · Alpine.js | Static multi-page travel and culture platform — 7 pages including interactive SVG map, AI guide mockup, culture shop, and culinary guide. Built for **COIL 2026** with a Philippines × Cambodia team of 10. No backend — fully Blade-templated frontend. |
-| 💊 | **LabSense** | Expo · React Native · Supabase · Gemini 2.0 Flash | Health literacy tool that scans lab results, explains every value in plain language, flags abnormal readings, and redirects to a doctor when needed. |
+| 🩺 | **LabSense** *(IT Olympiad Davao 2026)* | Expo · React Native · Supabase · Gemini 2.0 Flash | Mobile health literacy app for Filipino families. Photographs a lab result and explains every value in Bisaya, Filipino, or English with urgency flags (Low / Moderate / Critical), a Family Health Vault for the whole household, longitudinal trend tracking, and pre-loaded teleconsult with a licensed doctor. Not a diagnostic tool — built for health literacy under RA 11927. Team of 3. |
 | 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for **COIL 2025**. Led UI/UX and coordinated a team of 8 across Philippines and Indonesia. Features destination browsing, itinerary and budget planning, and cultural guides. |
 
 ---
