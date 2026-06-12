@@ -18,7 +18,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 🎓  Davao del Sur State College  |  BSIT - Expected 2027
 💻  Web Dev (Laravel/React)  +  Software Dev (.NET/C#/WPF)
 ✅  Civil Service Exam Passer    |  Professional · 2026
-🌍  COIL International 2×        |  PH×Indonesia 2025 · PH×Cambodia 2026
+🌍  COIL International 2×        |  PH×Indonesia 2025 · PH×Cambodia 2026 · Team Leader
 📍  Davao City, Philippines
 ```
 
