@@ -83,8 +83,8 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 ### 🏅 Certifications & Achievements
 
 - ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission PH
-- 🌟 **COIL International Collaboration** — *Philippines × Cambodia, TravelLink ASEAN* `2026`
-- 🌟 **COIL International Collaboration** — *Philippines × Indonesia, TravelWeave* `Sept–Oct 2025`
+- 🌟 **COIL: International Collaboration Program** — *Philippines × Cambodia, TravelLink ASEAN* `2026`
+- 🌟 **COIL: Global Web Design** — *Philippines × Indonesia, TravelWeave* `Sept–Oct 2025`
 - ⛓️ **XENEA Campus-Wide Blockchain Experience** `July 2025`
 - 🎨 **PAGHULAGWAY: Graphic Design Workshop** `September 2025`
 - 🔧 **BATCHES Workshop Series** `May 2025`
