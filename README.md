@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I'm a **3rd Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
+I'm a **Senior Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
 
 I work across **full-stack web development** (Laravel, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). I've participated in the COIL International Program **twice** — collaborating with Indonesia in 2025 and Cambodia in 2026. Right now I'm finishing two real client projects: a construction estimation platform for an engineering firm, and a scholarship system commissioned by a municipality.
 
