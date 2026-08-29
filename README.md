@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;2%C3%97+COIL+International+Alumnus;Building+real+systems%2C+in+Senior+year.)
+![Header](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=9B0F57&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Jericho+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Software+Dev;2%C3%97+COIL+International+Alumnus;Building+real+systems%2C+since+junior+year.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Martinnitram21&color=9b0f57&style=for-the-badge&label=PROFILE+VIEWS)
 
