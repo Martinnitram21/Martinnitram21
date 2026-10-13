@@ -12,7 +12,7 @@
 
 I'm a **Senior Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
 
-I work across **full-stack web development** (Laravel, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). I've participated in the COIL International Program **twice** — collaborating with Indonesia in 2025 and Cambodia in 2026 — and in July 2026 I was invited back as a **student resource speaker** at the college's COIL Re-echo session. I've also **exhibited at the Regional Science and Technology Week (RSTW)** for the GGMS group of municipal systems that eSkolar+ is part of. Right now I'm finishing two real client projects: a construction estimation platform for an engineering firm, and a scholarship system commissioned by a municipality.
+I work across **full-stack web development** (Laravel, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). I've participated in the COIL International Program **twice** — collaborating with Indonesia in 2025 and Cambodia in 2026 — and in July 2026 I was invited back as a **student resource speaker** at the college's COIL Re-echo session. As **student leader of the eSulopGov program** for the Municipality of Sulop, I managed the other students' systems, spoke with stakeholders, and **exhibited eSulopGov at the Regional Science, Technology, and Innovation Week (RSTW)**. I've shipped two real client projects, both now live: a construction management system for an engineering firm, and a scholarship system commissioned by the municipality. On October 16, my team pitches **Klaru**, a lab-result health-literacy app, at IT Olympiad Davao.
 
 ```text
 🎓  Davao del Sur State College  |  BSIT - Expected 2027
@@ -20,7 +20,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 ✅  Civil Service Exam Passer    |  Professional · 2026
 🌍  COIL International 2×        |  PH×Indonesia 2025 · PH×Cambodia 2026 · Team Leader
 🎤  COIL Re-echo                 |  Student Resource Speaker · July 2026
-🏛️  RSTW 2026                    |  Exhibitor · GGMS group of municipal systems
+🏛️  eSulopGov                    |  Student Lead Developer (Volunteer) · Exhibitor at RSTW 2026
 📍  Digos City, Davao del Sur, Philippines
 ```
 
@@ -58,10 +58,10 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 | | Project | Stack | About |
 |---|---|---|---|
-| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management system. Built solo for **Azacon Builders and Realty OPC**, Davao City. 1,800+ Fajardo coefficients, interpolation engine, 170+ API routes, mobile sync in progress. |
-| 🎓 | **eSkolar+: LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL · QuestPDF | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**. Full lifecycle management, CRS/GGMS government integration, OTP login, PDF/Excel reports, Hostinger cloud deployment. Exhibited at **RSTW 2026** as part of the GGMS group of municipal systems. |
+| 🏗️ | **[AzaBuild](https://azabuild.cids.io)** *(Live)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction management system built solo for **Azacon Builders and Realty OPC**, Davao City. One specification drives Fajardo-based quantity takeoff, itemized cost estimates and a CPM-PERT schedule, with weather-aware delay tracking, branded PDF reports and an offline Android app. |
+| 🎓 | **eSkolar+: LSAS** *(Live)* | Laravel · React · MySQL | Scholarship Administration System for the **Municipality of Sulop, Davao del Sur**, part of the [eSulopGov](https://sulopcris.info/) group of integrated municipal systems. Full scholarship lifecycle, CRS/GGMS integration, report exports, Hostinger hosting. Solo developer; also student leader of the eSulopGov program, exhibited at **RSTW 2026**. |
 | 🗺️ | **TravelLink ASEAN** | Laravel 13 · Blade · Tailwind v4 · Alpine.js | Static multi-page travel and culture platform — 7 pages including interactive SVG map, AI guide mockup, culture shop, and culinary guide. Built for **COIL 2026** with a Philippines × Cambodia team of 10. No backend — fully Blade-templated frontend. |
-| 🩺 | **LabSense** *(IT Olympiad Davao 2026)* | Expo · React Native · Supabase · Gemini 2.0 Flash | Mobile health literacy app for Filipino families. Photographs a lab result and explains every value in Bisaya, Filipino, or English with urgency flags (Low / Moderate / Critical), a Family Health Vault for the whole household, longitudinal trend tracking, and pre-loaded teleconsult with a licensed doctor. Not a diagnostic tool — built for health literacy under RA 11927. Team of 3. |
+| 🩺 | **[Klaru](https://klaru.cids.io)** *(IT Olympiad Davao 2026)* | Expo · React Native · TypeScript · Supabase · Laravel 13 | Health-literacy app for Filipino families. Photograph a lab result and get every value explained in Bisaya, Filipino, or English, with urgency flags, a family vault, trend tracking and visit notes. Built-in teleconsult: request an appointment with a health-center doctor and share your result. A health-center portal (working preview on demo data) lets doctors review results and answer requests. Explains values, never diagnoses. Built the Android app and web portal. Team of 3 plus coach. |
 | 🌏 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for **COIL 2025**. Led UI/UX and coordinated a team of 8 across Philippines and Indonesia. Features destination browsing, itinerary and budget planning, and cultural guides. |
 
 ---
@@ -84,15 +84,16 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 ### 🏅 Certifications & Achievements
 
-- ✅ **Civil Service Examination Passer** — *Career Service Professional · 2026* — Civil Service Commission PH
-- 🏛️ **Regional Science and Technology Week (RSTW) — Exhibitor** — *Certificate of Appearance, GGMS group of municipal systems* `2026`
+- ✅ **Civil Service Examination Passer** — *Career Service Professional · March 2026 · Rating 90.16* — Civil Service Commission PH
+- 🏛️ **Regional Science, Technology, and Innovation Week (RSTW) — Exhibitor** — *Certificates of Appearance and Attendance, eSulopGov systems, Sulop Municipal Gymnasium* `Sept 14–15, 2026`
 - 🎤 **COIL Re-echo and Capacity-Building Session — Resource Student Speaker** — *Certificate of Appreciation, Davao del Sur State College* `July 31, 2026`
 - 🌟 **COIL: International Collaboration Program** — *Philippines × Cambodia, TravelLink ASEAN* `2026`
 - 🌟 **COIL: Global Web Design** — *Philippines × Indonesia, TravelWeave* `Sept–Oct 2025`
-- 🎟️ **Regional Science and Technology Week (RSTW) — Attendee** — *Certificate of Attendance* `2026`
 - ⛓️ **XENEA Campus-Wide Blockchain Experience** `July 2025`
 - 🎨 **PAGHULAGWAY: Graphic Design Workshop** `September 2025`
-- 🔧 **BATCHES Workshop Series** `May 2025`
+- 🔧 **BATCHES Workshop Series — Facilitator** `May 2025`
+- 🤝 **Member, TechTugon** `Aug 2026 – Present` · **Member, The Chapters** `Aug 2025`
+- 🎓 **CHED Free Higher Education grantee** `2023 – Present`
 
 ---
 
@@ -102,7 +103,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jericho-earl-martin-7262a8362/)
 [![GitHub](https://img.shields.io/badge/GitHub-9b0f57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinnitram21)
-[![Email](https://img.shields.io/badge/Gmail-9b0f57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerichomartin805@gmail.com)
+[![Email](https://img.shields.io/badge/Email-9b0f57?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jerichoearl.martin@dssc.edu.ph)
 [![Facebook](https://img.shields.io/badge/Facebook-2563eb?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jericho.earl.martin/)
 
 </div>
