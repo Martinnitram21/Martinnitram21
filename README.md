@@ -73,7 +73,6 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 | Project | Stack | Notes |
 |---|---|---|
-| 📚 LibraryHub (Laravel) | Laravel · PHP · MySQL | Full-stack LMS with auth and admin dashboard |
 | 🏨 Hotel Management System | C# · WinForms · SQL | Desktop app for hotel bookings |
 | 📖 LibraryHub (WinForms) | C# · WinForms | Desktop LMS with user authentication |
 | 🛒 JEM Digital Solutions | Wix | E-commerce site for PC components and IoT |
