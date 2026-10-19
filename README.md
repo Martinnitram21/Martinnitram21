@@ -20,7 +20,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 ✅  Civil Service Exam Passer    |  Professional · 2026
 🌍  COIL International 2×        |  PH×Indonesia 2025 · PH×Cambodia 2026 · Team Leader
 🎤  COIL Re-echo                 |  Student Resource Speaker · July 2026
-🏛️  eSulopGov                    |  Student Lead Developer (Volunteer) · Exhibitor at RSTW 2026
+🏛️  eSulopGov                    |  Student Lead Developer · Exhibitor at RSTW 2026
 📍  Digos City, Davao del Sur, Philippines
 ```
 
