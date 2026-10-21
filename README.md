@@ -84,7 +84,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 
 - ✅ **Civil Service Examination Passer** — *Career Service Professional · March 2026 · Rating 90.16* — Civil Service Commission PH
 - 🏛️ **Regional Science, Technology, and Innovation Week (RSTW) — Exhibitor** — *Certificates of Appearance and Attendance, eSulopGov systems, Sulop Municipal Gymnasium* `Sept 14–15, 2026`
-- 🩺 **IT Olympiad 2026 — IT Pitching Delegate** — *Klaru, representing DSSC's College of Information and Digital Sciences, Ateneo de Davao University* `Oct 16, 2026`
+- 🩺 **IT Olympiad 2026 — IT Pitching Competition** — *Certificate of Recognition, PSITE Region XI × CDITE Region XI, Klaru, Ateneo de Davao University* `Oct 16, 2026`
 - 🎤 **COIL Re-echo and Capacity-Building Session — Resource Student Speaker** — *Certificate of Appreciation, Davao del Sur State College* `July 31, 2026`
 - 🌟 **COIL: International Collaboration Program** — *Philippines × Cambodia, TravelLink ASEAN* `2026`
 - 🌟 **COIL: Global Web Design** — *Philippines × Indonesia, TravelWeave* `Sept–Oct 2025`
