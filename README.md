@@ -83,6 +83,7 @@ I work across **full-stack web development** (Laravel, PHP, React) and **desktop
 ### 🏅 Certifications & Achievements
 
 - ✅ **Civil Service Examination Passer** — *Career Service Professional · March 2026 · Rating 90.16* — Civil Service Commission PH
+- 💡 **Patent Searching and Drafting Workshop** — *Certificate of Appreciation, Davao del Sur State College, Hotel de Crisbelle, Digos City* `Oct 22–23, 2026`
 - 🏛️ **Regional Science, Technology, and Innovation Week (RSTW) — Exhibitor** — *Certificates of Appearance and Attendance, eSulopGov systems, Sulop Municipal Gymnasium* `Sept 14–15, 2026`
 - 🩺 **IT Olympiad 2026 — IT Pitching Competition** — *Certificate of Recognition, PSITE Region XI × CDITE Region XI, Klaru, Ateneo de Davao University* `Oct 16, 2026`
 - 🎤 **COIL Re-echo and Capacity-Building Session — Resource Student Speaker** — *Certificate of Appreciation, Davao del Sur State College* `July 31, 2026`
