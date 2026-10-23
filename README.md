@@ -10,9 +10,11 @@
 
 ### 👋 About Me
 
-I'm a **Senior Year BSIT student** from **Davao del Sur State College**, Philippines 🇵🇭 — building things that actually get used, not just things that pass.
+I'm a senior BSIT student at **Davao del Sur State College** who cares more about whether something gets used than whether it passes a rubric.
 
-I work across **full-stack web development** (Laravel, PHP, React) and **desktop/software development** (.NET 10, C#, WPF). I've participated in the COIL International Program **twice** — collaborating with Indonesia in 2025 and Cambodia in 2026 — and in July 2026 I was invited back as a **student resource speaker** at the college's COIL Re-echo session. As **student leader of the eSulopGov program** for the Municipality of Sulop, I managed the other students' systems, spoke with stakeholders, and **exhibited eSulopGov at the Regional Science, Technology, and Innovation Week (RSTW)**. I've shipped two real client projects, both now live: a construction management system for an engineering firm, and a scholarship system commissioned by the municipality. In October 2026, my team pitched **Klaru**, a lab-result health-literacy app, at the IT Olympiad at Ateneo de Davao University.
+I work across **full-stack web** (Laravel, PHP, React) and **desktop software** (.NET, C#, WPF). Two of my projects are live with real clients: a construction management system for an engineering firm in Davao City, and a scholarship system for the Municipality of Sulop, where I also lead the student developers behind eSulopGov.
+
+What I enjoy most is explaining how things work, whether that's leading international COIL teams, facilitating workshops, or speaking to other students. I'm heading toward a future in teaching and IT research.
 
 ```text
 🎓  Davao del Sur State College  |  BSIT - Expected 2027
