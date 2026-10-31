@@ -56,7 +56,7 @@ What I enjoy most is explaining how things work, whether that's leading internat
 
 ### 🚀 Featured Projects
 
-> 💡 Client-commissioned, competition-built, and internationally recognized — not just school compliance.
+> 💡 Capstone, competition-built, and internationally recognized — not just school compliance.
 
 | | Project | Stack | About |
 |---|---|---|---|
