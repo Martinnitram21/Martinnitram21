@@ -12,7 +12,7 @@
 
 I'm a senior BSIT student at **Davao del Sur State College** who cares more about whether something gets used than whether it passes a rubric.
 
-I work across **full-stack web** (Laravel, PHP, React) and **desktop software** (.NET, C#, WPF). Two of my projects are live with real clients: a construction management system for an engineering firm in Davao City, and a scholarship system for the Municipality of Sulop, where I also lead the student developers behind eSulopGov.
+I work across **full-stack web** (Laravel, PHP, React) and **desktop software** (.NET, C#, WPF) development. Two of my projects are live with real clients: a construction management system for an engineering firm in Davao City, and a scholarship system for the Municipality of Sulop, where I also lead the student developers behind eSulopGov.
 
 What I enjoy most is explaining how things work, whether that's leading international teams, facilitating workshops, or speaking to other students. I'm heading toward a future in teaching and IT research.
 
