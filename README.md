@@ -40,7 +40,7 @@ What I enjoy most is explaining how things work, whether that's leading internat
 
 **Databases & More**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postman,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,postman,notion)](https://skillicons.dev)
 
 ---
 
