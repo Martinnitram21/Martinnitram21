@@ -26,6 +26,8 @@ What I enjoy most is explaining how things work, whether that's leading internat
 📍  Digos City, Davao del Sur, Philippines
 ```
 
+📬 **Open to remote freelance web development** (Laravel, React). The fastest way to reach me is email.
+
 ---
 
 ### 🛠️ Tech Stack
