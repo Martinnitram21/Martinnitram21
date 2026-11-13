@@ -52,7 +52,7 @@ What I enjoy most is explaining how things work, whether that's leading internat
 <img src="https://streak-stats.demolab.com?user=Martinnitram21&hide_border=true&background=ffffff&ring=9b0f57&fire=2563eb&currStreakLabel=9b0f57" />
 
 **Chess.com**\
-![chess-profile-widget](https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=ha_hotdog&theme=default&logo=false)
+![chess-profile-widget](https://jericho-chess-widget.onrender.com/widget?platform=chess-dot-com&username=ha_hotdog&theme=default&logo=false)
 
 </div>
 
